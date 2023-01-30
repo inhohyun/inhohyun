@@ -16,9 +16,10 @@
 </a>
 
 -  안녕하세요! 주섬주섬 성장해나가는 개발자 인호현입니다.
+-  주어진 지식을 주섬주섬 주워담아 자신의 능력으로 만드는 힘이 있습니다.
 -  배운 기술을 왜 사용하고 또한 어떻게 사용해야하는지에 대해 관심이 많습니다.
 -  알고리즘 공부도 꾸준히하여 생각하는 법을 익히고 있습니다.
--  현재는 대학과정을 밟으며 기반이 될 지식들을 배우고 적용해보며 학습중입니다.
+
 <h3>Portfolio</h3>
 <a href = "https://www.notion.so/4718d0d3145b43d5a485eb7918042a07"><img src="https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=Notion&logoColor=black"></a>
 
