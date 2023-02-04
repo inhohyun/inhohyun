@@ -1,7 +1,6 @@
 
 <h1 align="center">
 
-
   안녕하세요~!
   <a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
