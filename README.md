@@ -1,23 +1,4 @@
 
-<h1 align="center">
-
-  안녕하세요!
-  <a target="_blank">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
-  </a>
-</h1>
-
-<br/>
-<br/>
-
-<a target="_blank">
-  <img align="right" height="250" width="300" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
-</a>
-
--  안녕하세요! 주섬주섬 성장해나가는 개발자 인호현입니다.
--  주어진 지식을 주섬주섬 주워담아 자신의 능력으로 만드는 힘이 있습니다.
--  배운 지식을 왜 사용하는지 알고, 이를 개인 프로젝트에 적용시켜보며 학습중입니다.
--  알고리즘 공부도 꾸준히하여 생각하는 법을 익히고 있습니다.
 
 <h3>Portfolio</h3>
 <a href = "https://www.notion.so/4718d0d3145b43d5a485eb7918042a07"><img src="https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=Notion&logoColor=black"></a>
