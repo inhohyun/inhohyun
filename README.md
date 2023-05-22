@@ -2,6 +2,7 @@
 
 <h3>Portfolio</h3>
 <a href = "https://www.notion.so/4718d0d3145b43d5a485eb7918042a07"><img src="https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=Notion&logoColor=black"></a>
+<p>Blog | https://ihh4545.tistory.com/</p>
 <br>
 <h3>Stacks & Language</h3>
 <div>
