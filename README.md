@@ -1,4 +1,4 @@
-<h3>Portfolio</h3>
+<h3>Blog</h3>
 
 <p>Blog | https://ihh4545.tistory.com/</p>
 <br>
