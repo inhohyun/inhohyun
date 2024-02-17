@@ -1,7 +1,7 @@
 
 <h3>BaekJoon</h3>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=inhohyun)](https://solved.ac/inhohyun)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=inhohyun)](https://solved.ac/inhohyun)
 
 <h3>Languages</h3>
 
