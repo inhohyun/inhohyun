@@ -10,7 +10,7 @@
 
 현재는 프론트엔드 개발에 흥미가 생겨 리액트를 활용한 프로젝트에 관심이있습니다.
 
-새로운 기술이나 언어를 배움에 거부감이 없으며 주어진 업무가 나의 꿈과 직결된다는 마음가짐으로 임하고 있습니다.
+처음보는 기술이나 언어를 배움에 거부감이 없으며, 스스로 문제를 정의하고 해결하는 것이 개발자의 필수 역량이라고 생각합니다.
 <h2>SKILL & Used Tool </h2>
 <div>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
