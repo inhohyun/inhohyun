@@ -23,9 +23,6 @@
 </div>
 <h3>알고리즘</h3>
 
-- 알고리즘 문제를 풀며 구현력을 훈련합니다.
-  
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=inhohyun)](https://solved.ac/inhohyun)
 
 
