@@ -17,10 +17,6 @@
 </a>
   
 </div>
-<div>
-  <h3>블로그</h3>
-  
-</div>
 <h3>알고리즘</h3>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=inhohyun)](https://solved.ac/inhohyun)
