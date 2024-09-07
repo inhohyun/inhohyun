@@ -22,4 +22,9 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=inhohyun)](https://solved.ac/inhohyun)
 
 
-
+<h3>자주 사용하는 언어<h3>
+<div >
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=inhohyun&layout=compact&langs_count=10&bg_color=45,C33764,1D2671&title_color=ffffff&text_color=ffffff&hide_border=False" />
+  </a>
+</div>
