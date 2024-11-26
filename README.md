@@ -1,5 +1,7 @@
 
 # 인호현
+
+(깃허브 포폴 리드미 추가 예정)
 <h2>SKILL & Used Tool </h2>
 <div>
     <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"/>
