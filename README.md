@@ -1,7 +1,12 @@
 
 # 인호현
+(포트폴리오 추가하기)
 
-(깃허브 포폴 리드미 추가 예정)
+
+(블로그 내역 추가하기)
+
+
+(간단한 소개 추가하기)
 <h2>SKILL & Used Tool </h2>
 <div>
     <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"/>
@@ -14,14 +19,19 @@
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
   </div>
 </a>
-  
 </div>
-<h3>알고리즘</h3>
+
+
+## 알고리즘
+(설명글 추가하기)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=inhohyun)](https://solved.ac/inhohyun)
 
 
-<h3>자주 사용하는 언어<h3>
-  
+## 개발 언어
+
+새로운 언어에 대한 두려움은 없습니다! </br>업무에 필요한 언어라면 빠르게 습득하여 활용할 수 있습니다.
+
+    
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inhohyun&langs_count=6)
 
