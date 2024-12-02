@@ -6,9 +6,11 @@
 나의 풀이법이 다른 팀원들이 보아도 납득이 가능하도록 <strong>논리적인 개발자</strong>가 되겠습니다.
 </blockquote>
 
-(포트폴리오 추가하기)
+## 포트폴리오 & 블로그
+<a href="https://url.kr/1n4k6s" target="_blank" rel="noopener noreferrer">포트폴리오</a></br>
+<a href="https://ihh4545.tistory.com/" target="_blank" rel="noopener noreferrer">블로그</a>
 
-(블로그 내역 추가하기)
+
 
 <h2>SKILL & Used Tool </h2>
 <div>
