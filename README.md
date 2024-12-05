@@ -28,7 +28,7 @@
 
 
 ## 알고리즘
-(설명글 추가하기)
+기본적인 구현력과 문제 해결력을 기르기 위해 알고리즘 문제를 풀어왔습니다.
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=inhohyun)](https://solved.ac/inhohyun)
 
