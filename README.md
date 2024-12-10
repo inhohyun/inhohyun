@@ -34,7 +34,7 @@
 
 
 ## 개발 언어
-새로운 언어에 대한 두려움은 없습니다! </br>업무에 필요한 언어라면 빠르게 습득하여 활용할 수 있습니다.
+새로운 언어에 대한 두려움은 없습니다. </br>업무에 필요한 언어라면 빠르게 습득하여 활용할 수 있습니다.
 
     
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inhohyun&langs_count=6)
